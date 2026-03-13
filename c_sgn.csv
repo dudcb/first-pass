@@ -1,4 +1,4 @@
-﻿原 id,id,type,question,option_1,option_2,option_3,answer,media_file,解析,,,,,,
+原 id,id,type,question,option_1,option_2,option_3,answer,media_file,解析,,,,,,
 1,c_sgn_001,choice_image,,右彎,左彎,連續彎路先向右,1,c_sgn_001.webp,此為「右彎」警告標誌，提醒駕駛前方道路有向右的急彎，應減速慢行,,,,,,
 2,c_sgn_002,choice_image,,左彎,右彎,連續彎路先向左,1,c_sgn_002.webp,此為「左彎」警告標誌，提醒駕駛前方道路有向左的急彎，應減速慢行,,,,,,
 3,c_sgn_003,choice_image,,連續彎路先向右,左彎,連續彎路先向左,1,c_sgn_003.webp,此為「連續彎路先向右」警告標誌，提醒駕駛前方有連續彎路，且第一個彎向右,,,,,,
