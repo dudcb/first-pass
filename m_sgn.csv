@@ -1,4 +1,4 @@
-﻿原 id,id,type,question,option_1,option_2,option_3,answer,media_file,解析
+原 id,id,type,question,option_1,option_2,option_3,answer,media_file,解析
 9,m_sgn_001,choice_image,,車輛總重限制,車輛載重限制,車輛空重,1,m_sgn_001.jpg,這是「總重限制」標誌紅圈禁制標誌內標示噸數，代表禁止總重量（含載重與乘客）超過該數值的車輛通行
 67,m_sgn_002,choice_image,,路面高突,路滑,禁止超車,2,m_sgn_002.jpg,此為「路滑」標誌，警告前方路段可能因潮濕或其他原因導致路面摩擦力降低，駕駛人應減速慢行
 68,m_sgn_003,choice_image,,注意右側落石,斷崖,注意左側落石,3,m_sgn_003.jpg,此為「注意左側落石」警告標誌，表示前方路段左側可能有落石，駕駛人應減速慢行，提高警覺
